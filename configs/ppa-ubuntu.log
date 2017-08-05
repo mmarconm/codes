@@ -1,0 +1,15 @@
+ppa:moka/stable
+ppa:moka/daily
+ppa:tista/adapta
+ppa:numix/ppa
+ppa:snwh/pulp
+ppa:noobslab/themes
+ppa:noobslab/icons
+
+sudo apt-add-repository ppa:vokoscreen-dev/vokoscreen
+
+ppa:webupd8team/atom
+
+sudo add-apt-repository --yes ppa:moka/stable && sudo add-apt-repository --yes ppa:tista/adapta && sudo add-apt-repository --yes ppa:numix/ppa && sudo add-apt-repository --yes ppa:snwh/pulp && sudo add-apt-repository --yes ppa:webupd8team/atom && sudo add-apt-repository --yes ppa:noobslab/icons && sudo add-apt-repository --yes ppa:noobslab/themes
+
+sudo add-apt-repository --yes ppa:tista/adapta && sudo add-apt-repository --yes ppa:snwh/pulp && sudo add-apt-repository --yes ppa:webupd8team/atom && sudo add-apt-repository --yes ppa:noobslab/icons && sudo add-apt-repository --yes ppa:noobslab/themes
