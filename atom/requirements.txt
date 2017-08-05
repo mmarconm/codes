@@ -1,0 +1,10 @@
+virtualenvwrapper
+isort
+ipython
+importmagic
+flake8
+jedi
+autocomplete
+autopep8
+setuptools
+pip

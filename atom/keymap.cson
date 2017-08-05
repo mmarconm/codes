@@ -1,0 +1,57 @@
+
+'atom-workspace':
+  'alt-x': 'command-palette:toggle'
+  'ctrl-x 0': 'pane:close'
+
+
+  'ctrl-x 1': 'emacs-plus:close-other-panes'
+  #'ctrl-x 2': 'pane:split-down-and-copy-active-item'
+  #'ctrl-x 3': 'pane:split-right-and-copy-active-item'
+
+  'ctrl-x 4': 'pane:split-down-and-application:new-file'
+
+  'ctrl-x b': 'fuzzy-finder:toggle-buffer-finder'
+  'ctrl-x ctrl-c': 'application:quit'
+  'ctrl-x ctrl-f': 'application:new-file'
+  'ctrl-x ctrl-j': 'tree-view:reveal-active-file'
+  'ctrl-x k': 'core:close'
+  'ctrl-x o': 'window:focus-next-pane'
+  'ctrl-9': 'window:focus-next-pane'
+  'ctrl-n': 'core:move-down'
+
+'atom-workspace atom-text-editor':
+  'ctrl-a': 'editor:move-to-beginning-of-line'
+  'ctrl-m': 'editor:move-to-end-of-screen-line'
+  'ctrl-b': 'core:move-left'
+  'ctrl-l': 'core:move-right'
+  'ctrl-p': 'core:move-up'
+  'ctrl-u': 'core:move-down'
+  'ctrl-t': 'editor:transpose'
+  'ctrl-y': 'core:paste'
+  'alt-b': 'editor:move-to-beginning-of-word'
+  'alt-right': 'editor:move-to-end-of-word'
+  'alt-f': 'editor:move-to-end-of-word'
+  'ctrl-x ctrl-l': 'editor:lower-case'
+  'ctrl-alt-/': 'core:redo'
+  'ctrl-x u': 'core:undo'
+  'ctrl-space': 'core:select-all'
+  'ctrl-x 3': 'pane:split-up'
+  'ctrl-x 2': 'pane:split-right'
+
+'body':
+  'alt-w': 'core:copy'
+  'ctrl-d': 'core:delete'
+  'ctrl-g': 'core:cancel'
+  'ctrl-h': 'core:backspace'
+  'ctrl-m': 'core:confirm'
+  'ctrl-n': 'core:move-down'
+  'ctrl-x ctrl-p': 'core:page-up'
+  'ctrl-x ctrl-n': 'core:page-down'
+  'ctrl-w': 'core:cut'
+
+'.platform-win32':
+  'ctrl-x ctrl-n': 'fuzzy-finder:toggle-file-finder'
+
+'.platform-win32 atom-text-editor, .platform-linux atom-text-editor':
+  'f7': 'run:file'
+  'f2': 'color-picker:open'

@@ -1,0 +1,56 @@
+"*":
+  "atom-python-virtualenv":
+    additionalVirtualEnvPaths: "$HOME/workspaces"
+    getWorkOnHome: "$HOME/.virtualenvs"
+  core:
+    autoHideMenuBar: true
+    closeDeletedFileTabs: true
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "__pycache__"
+      "venv"
+      "env"
+    ]
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    themes: [
+      "pristine-ui"
+      "deep-purple-syntax"
+    ]
+  editor:
+    fontSize: 13
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "c0dfcfd6-6c7f-4d74-9ed9-99531111cfce"
+  minimap:
+    absoluteMode: true
+    adjustAbsoluteModeHeight: true
+    independentMinimapScroll: true
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        blue: "#0073cd"
+      zBright:
+        brightBlue: "#00ceff"
+    core:
+      mapTerminalsTo: "File"
+      workingDirectory: "Active File"
+    style:
+      defaultPanelHeight: "160px"
+      theme: "dracula"
+    toggles:
+      autoClose: true
+  "tree-view":
+    autoReveal: true
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
