@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo ">>> Installing Packages on Atom"
-apm install --packages-file apm-packages.log
+apm install --packages-file new-themes.log
 echo ">>> Packages Installed"
 
 echo ">>> Coping the Files"
