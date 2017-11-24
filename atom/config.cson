@@ -20,11 +20,12 @@
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
     themes: [
-      "pristine-ui"
-      "deep-purple-syntax"
+      "dirt-ui"
+      "city-lights-syntax"
     ]
   editor:
-    fontSize: 13
+    fontFamily: "Source Code Pro For Powerline"
+    fontSize: 15
     scrollPastEnd: true
     showIndentGuide: true
     softWrap: true
@@ -44,7 +45,9 @@
       mapTerminalsTo: "File"
       workingDirectory: "Active File"
     style:
-      defaultPanelHeight: "160px"
+      defaultPanelHeight: "170px"
+      fontFamily: "Source Code Pro For Powerline"
+      fontSize: "15"
       theme: "dracula"
     toggles:
       autoClose: true
