@@ -28,19 +28,10 @@ if [ -d /home/$USER/.atom ]; then
     case $option in
 
 	1)
+
 	   rm /home/$USER/.atom -rf
-<<<<<<< HEAD
 	   echo "Folder Deleted" 
 	   install_atom	;;
-=======
-<<<<<<< HEAD
-	   echo "Folder Deleted" 
-	   install_atom	;;
-=======
-	   echo "Folder Deleted" ;;
-	   install_atom	
->>>>>>> 9baff6d61d608c6d54eb38c08aeeabba00a9ad0a
->>>>>>> 532422229e05acb128f45e09dca593ba1bbcf666
 
 	2)
 	    echo "Bye" ;;
