@@ -29,9 +29,9 @@ if [ -d /home/$USER/.atom ]; then
 
 	1)
 	   rm /home/$USER/.atom -rf
-	   install_atom
-	   echo "Folder Deleted" ;;
-	
+	   echo "Folder Deleted" 
+	   install_atom	;;
+
 	2)
 	    echo "Bye" ;;
 
