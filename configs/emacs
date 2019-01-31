@@ -4,6 +4,10 @@
    'package-archives
    '("melpa" . "http://melpa.org/packages/")
    t)
+   
+(add-hook 'python-mode-hook 'jedi:setup)
+(setq jedi:complete-on-dot t)
+
 (package-initialize))
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -31,6 +35,8 @@
 (global-set-key (kbd "<f8>")   'buf-move-left)  
 (global-set-key (kbd "<f9>")   'buf-move-right) 
 (global-set-key (kbd "<f12>")   'package-list-packages)
+
+(global-set-key (kbd "C-x C-b") 'ibuffer-other-window)
 
 ;disable backup
 (setq backup-inhibited t)
