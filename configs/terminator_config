@@ -28,9 +28,19 @@
     cursor_color = "#b3b8c3"
     cursor_color_fg = False
     cursor_shape = underline
-    font = Source Code Pro for Powerline 12
+    font = Fira Code weight=450 12
     foreground_color = "#b3b8c3"
     palette = "#000000:#b04b57:#87b379:#e5c179:#7d8fa4:#a47996:#85a7a5:#b3b8c3:#000000:#b04b57:#87b379:#e5c179:#7d8fa4:#a47996:#85a7a5:#ffffff"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+  [[AtelierSulphurpool]]
+    background_color = "#202746"
+    cursor_color = "#979db4"
+    cursor_shape = underline
+    font = Fira Code weight=450 12
+    foreground_color = "#979db4"
+    palette = "#202746:#c94922:#ac9739:#c08b30:#3d8fd1:#6679cc:#22a2c9:#979db4:#6b7394:#c76b29:#293256:#5e6687:#898ea4:#dfe2f1:#9c637a:#f5f7ff"
     scrollbar_position = hidden
     show_titlebar = False
     use_system_font = False
@@ -38,108 +48,77 @@
     background_color = "#191c27"
     cursor_color = "#92805b"
     cursor_shape = underline
-    font = Source Code Pro for Powerline 12
+    font = Fira Code weight=450 12
     foreground_color = "#aea47a"
     palette = "#181818:#810009:#48513b:#cc8b3f:#576d8c:#724d7c:#5c4f4b:#aea47f:#555555:#ac3835:#a6a75d:#dcdf7c:#3097c6:#d33061:#f3dbb2:#f4f4f4"
     scrollbar_position = hidden
     show_titlebar = False
     use_system_font = False
-  [[AtelierSulphurpool]]
-      palette = "#202746:#c94922:#ac9739:#c08b30:#3d8fd1:#6679cc:#22a2c9:#979db4:#6b7394:#c76b29:#293256:#5e6687:#898ea4:#dfe2f1:#9c637a:#f5f7ff"
-      background_color = "#202746"
-      cursor_color = "#979db4"
-      foreground_color = "#979db4"
-      background_image = None
-      scrollbar_position = hidden
-      show_titlebar = False
-      use_system_font = False
-      cursor_shape = underline
-      font = Source Code Pro for Powerline 12
   [[DotGov]]
-      palette = "#191919:#bf091d:#3d9751:#f6bb34:#17b2e0:#7830b0:#8bd2ed:#ffffff:#191919:#bf091d:#3d9751:#f6bb34:#17b2e0:#7830b0:#8bd2ed:#ffffff"
-      background_color = "#262c35"
-      cursor_color = "#d9002f"
-      foreground_color = "#ebebeb"
-      background_image = None
-      scrollbar_position = hidden
-      show_titlebar = False
-      use_system_font = False
-      cursor_shape = underline
-      font = Source Code Pro for Powerline 12
+    background_color = "#262c35"
+    cursor_color = "#d9002f"
+    cursor_shape = underline
+    font = Fira Code weight=450 12
+    foreground_color = "#ebebeb"
+    palette = "#191919:#bf091d:#3d9751:#f6bb34:#17b2e0:#7830b0:#8bd2ed:#ffffff:#191919:#bf091d:#3d9751:#f6bb34:#17b2e0:#7830b0:#8bd2ed:#ffffff"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
   [[Dracula]]
-      background_color = "#1e1f29"
-      background_image = None
-      cursor_color = "#aaaaaa"
-      foreground_color = "#f8f8f2"
-  palette = "#44475a:#ff5555:#50fa7b:#f1fa8c:#8be9fd:#bd93f9:#ff79c6:#94a3a5:#000000:#ff5555:#50fa7b:#f1fa8c:#8be9fd:#bd93f9:#ff79c6:#ffffff"
-      scrollbar_position = hidden
-      show_titlebar = False
-      use_system_font = False
-      cursor_shape = underline
-      font = Source Code Pro for Powerline 12
-  [[Slate]]
-    palette = "#222222:#e2a8bf:#81d778:#c4c9c0:#264b49:#a481d3:#15ab9c:#02c5e0:#ffffff:#ffcdd9:#beffa8:#d0ccca:#7ab0d2:#c5a7d9:#8cdfe0:#e0e0e0"
-    background_color = "#222222"
-    cursor_color = "#87d3c4"
-    foreground_color = "#35b1d2"
-background_image = None
-scrollbar_position = hidden
-show_titlebar = False
-use_system_font = False
-cursor_shape = underline
-font = Source Code Pro for Powerline 12
-[[Material colors]]
-    background_color = "#1E282C"
-    background_image = None
+    background_color = "#1e1f29"
+    cursor_color = "#aaaaaa"
+    cursor_shape = underline
+    font = Fira Code weight=450 12
+    foreground_color = "#f8f8f2"
+    palette = "#44475a:#ff5555:#50fa7b:#f1fa8c:#8be9fd:#bd93f9:#ff79c6:#94a3a5:#000000:#ff5555:#50fa7b:#f1fa8c:#8be9fd:#bd93f9:#ff79c6:#ffffff"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+  [[Freya]]
+    cursor_color = "#aaaaaa"
+    font = Fira Code weight=450 10
+    use_system_font = False
+  [[Juicy]]
+    cursor_color = "#aaaaaa"
+    font = Fira Code weight=450 10
+    use_system_font = False
+  [[Material colors]]
+    background_color = "#1e282c"
     cursor_color = "#657B83"
-    foreground_color = "#C3C7D1"
-palette = "#073641:#EB606B:#C3E88D:#F7EB95:#80CBC3:#FF2490:#AEDDFF:#FFFFFF:#002B36:#EB606B:#C3E88D:#F7EB95:#7DC6BF:#6C71C3:#34434D:#FFFFFF"
-scrollbar_position = hidden
-show_titlebar = False
-use_system_font = False
-cursor_shape = underline
-font = Source Code Pro for Powerline 12
-[[Pandora]]
-    palette = "#000000:#ff4242:#74af68:#ffad29:#338f86:#9414e6:#23d7d7:#e2e2e2:#3f5648:#ff3242:#74cd68:#ffb929:#23d7d7:#ff37ff:#00ede1:#ffffff"
+    cursor_shape = underline
+    font = Fira Code weight=450 12
+    foreground_color = "#c3c7d1"
+    palette = "#073641:#eb606b:#c3e88d:#f7eb95:#80cbc3:#ff2490:#aeddff:#ffffff:#002b36:#eb606b:#c3e88d:#f7eb95:#7dc6bf:#6c71c3:#34434d:#ffffff"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+  [[Pandora]]
     background_color = "#141e43"
     cursor_color = "#43d58e"
+    cursor_shape = underline
+    font = Fira Code weight=450 12
     foreground_color = "#e1e1e1"
-background_image = None
-scrollbar_position = hidden
-show_titlebar = False
-use_system_font = False
-cursor_shape = underline
-font = Source Code Pro for Powerline 12
-[[Paraiso Dark]]
-    palette = "#2f1e2e:#ef6155:#48b685:#fec418:#06b6ef:#815ba4:#5bc4bf:#a39e9b:#776e71:#ef6155:#48b685:#fec418:#06b6ef:#815ba4:#5bc4bf:#e7e9db"
-    background_color = "#2f1e2e"
-    cursor_color = "#a39e9b"
-    foreground_color = "#a39e9b"
-background_image = None
-scrollbar_position = hidden
-show_titlebar = False
-use_system_font = False
-cursor_shape = underline
-font = Source Code Pro for Powerline 12
-[[Juicy]]
+    palette = "#000000:#ff4242:#74af68:#ffad29:#338f86:#9414e6:#23d7d7:#e2e2e2:#3f5648:#ff3242:#74cd68:#ffb929:#23d7d7:#ff37ff:#00ede1:#ffffff"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+  [[Paraiso Dark]]
+    background_color = "#252e32"
+    cursor_color = "#839496"
+    cursor_shape = underline
+    font = Fira Code weight=450 12
+    foreground_color = "#94a3a5"
+    palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#ec0048:#2aa198:#94a3a5:#586e75:#cb4b16:#859900:#b58900:#268bd2:#d33682:#2aa198:#6c71c4"
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
+  [[Slate]]
     background_color = "#212121"
     cursor_color = "#fcfcfc"
+    cursor_shape = underline
+    font = Source Code Pro for Powerline 12
     foreground_color = "#fcfcfc"
     palette = "#2e3436:#ff0945:#1aff81:#fff64a:#2bf1ff:#7b68ee:#98f4ff:#d3d7cf:#555753:#ff0945:#1aff81:#fff64a:#2bf1ff:#7b68ee:#98f4ff:#eeeeec"
-background_image = None
-scrollbar_position = hidden
-show_titlebar = False
-use_system_font = False
-cursor_shape = underline
-font = Source Code Pro for Powerline 12
-[[Freya]]
-  background_color = "#252e32"
-  background_image = None
-  cursor_color = "#839496"
-  foreground_color = "#94a3a5"
-palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#ec0048:#2aa198:#94a3a5:#586e75:#cb4b16:#859900:#b58900:#268bd2:#d33682:#2aa198:#6c71c4"
-scrollbar_position = hidden
-show_titlebar = False
-use_system_font = False
-cursor_shape = underline
-font = Source Code Pro for Powerline 12
+    scrollbar_position = hidden
+    show_titlebar = False
+    use_system_font = False
