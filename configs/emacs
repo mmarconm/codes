@@ -18,19 +18,18 @@
  '(tool-bar-mode nil)
  '(inhibit-startup-screen t)
  '(scroll-bar-mode nil)
+ '(global-linum-mode t)
  '(show-paren-mode t)
  '(size-indication-mode t)
  '(tool-bar-mode nil))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
+ 
  )
 (global-set-key (kbd "<f3>")   'neotree-toggle)
 (global-set-key (kbd "<f4>")   'package-install)
-(global-set-key (kbd "<f5>")   'linum-mode)  
-(global-set-key (kbd "<f6>")   'hl-line-mode)   
+(global-set-key (kbd "<f5>")   'global-linum-mode)  
+(global-set-key (kbd "<f6>")   'global-hl-line-mode)   
 (global-set-key (kbd "<f7>")   'transpose-frame)
 (global-set-key (kbd "<f8>")   'buf-move-left)  
 (global-set-key (kbd "<f9>")   'buf-move-right) 
