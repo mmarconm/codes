@@ -1,0 +1,38 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "window.menuBarVisibility": "toggle",
+  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontSize": 15,
+  "editor.cursorStyle": "underline",
+  "editor.wordWrap": "on",
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.fontFamily": "Fira Code Retina",
+  "editor.renderLineHighlight": "gutter",
+  "terminal.integrated.fontSize": 15,
+  "window.restoreWindows": "none",
+  "editor.mouseWheelZoom": true,
+  "editor.fontLigatures": true,
+  "window.zoomLevel": 0,
+  "dart.previewDart2": true,
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "[python]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+  },
+  "[javascript]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.rulers": [80, 120],
+  "files.exclude": {
+    "**/env": true,
+    "**/venv": true
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Horizon"
+}
