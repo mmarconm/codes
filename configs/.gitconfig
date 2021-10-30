@@ -1,12 +1,13 @@
 [user]
 	name = Marcelo Marcon
-	email = user@local.index
+	email = marcelo.marcon@ax4b.com
 [log]
   date = relative
 [format]
   pretty = format:%h %Cblue%ad%Creset %ae %Cgreen%s%Creset
 [core]
 	editor = leafpad
+	autocrlf = false
 [color]
 	branch = auto
 	diff = auto
